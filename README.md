@@ -1,14 +1,16 @@
 # Olá, me chamo João! 
-## Bem vindo ao meu perfil GitHub 👋
-# Sou Desenvolvedor Web Full Stack em formação
-# Atualmente estudo na Trybe, onde estou aprendendo agora as :sparkles: magias :sparkles: do Back End
-# Tenho mais familiaridade com React, JS, CSS, Redux, MySQL e Node.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+# Bem vindo ao meu perfil GitHub 👋
+<p>Sou Desenvolvedor Web Full Stack em formação
+Atualmente estudo na Trybe, onde estou aprendendo agora as :sparkles: magias :sparkles: do Back End
+Tenho mais familiaridade com React, JS, CSS, Redux, MySQL e Node.js</p>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</div>
 ## Contatos:
 
 <div>
