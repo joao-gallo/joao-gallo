@@ -1,7 +1,6 @@
 # Olá, me chamo João! 
 # Bem vindo ao meu perfil GitHub 👋
-<p>Sou Desenvolvedor Web Full Stack em formação
-Atualmente estudo na Trybe, onde estou aprendendo agora as :sparkles: magias :sparkles: do Back End</p>
+<p>Sou Desenvolvedor Web Full Stack em formação, atualmente estudo na Trybe, onde estou aprendendo agora as :sparkles: magias :sparkles: do Back End</p>
 <p>Tenho mais familiaridade com React, JS, CSS, Redux, MySQL e Node.js</p>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
