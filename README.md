@@ -11,7 +11,7 @@ Atualmente estudo na Trybe, onde estou aprendendo agora as :sparkles: magias :sp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </div>
-#Contatos:
+<h3>Contatos:</h3>
 <div>
 <a href = "joaogallop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-gallo-19a51622a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -21,4 +21,3 @@ Atualmente estudo na Trybe, onde estou aprendendo agora as :sparkles: magias :sp
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gallo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-gallo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/joao-gallo/joao-gallo/blob/output/github-contribution-grid-snake.svg)
