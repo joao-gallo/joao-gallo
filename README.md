@@ -1,6 +1,6 @@
 # Olá, me chamo João! 
 # Bem vindo ao meu perfil GitHub 👋
-<p>Sou Desenvolvedor Web Full Stack em React, Node com TypeScript, Bancos Relacionais(MySQL) e Não Relacionais(MongoDB), Arquitetura MVC e Clean Code com DDD e principios SOLID, desenvolvo com Behavior Driven Development(testes voltados apenas para a aplicação, sem testar tecnologias externas), mas também tenho prática com TDD(Test Driven Development) usando Jest, React Test Library, Mocha, Chai e Sinon.</p>
+<p>Sou Desenvolvedor Web Full Stack em React, Node com TypeScript, Bancos Relacionais(MySQL) e Não Relacionais(MongoDB), Arquitetura MVC, Clean Code com DDD e principios SOLID, desenvolvo com Behavior Driven Development(testes voltados apenas para a aplicação, sem testar tecnologias externas), mas também tenho prática com TDD(Test Driven Development) usando Jest, React Test Library, Mocha, Chai e Sinon.</p>
 <p>Costumo utilizar Metodologias Ágeis para melhores resultados, tenho muita experiência em equipe, e tenho muita facilidade para aprender novas tecnologias. </p>
 
 <div>
@@ -11,6 +11,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+          
+          
 </div>
 <h3>Contatos:</h3>
 <div>
