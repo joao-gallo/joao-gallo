@@ -23,7 +23,7 @@
 </div>
 <div>
 <a href="https://github.com/joao-gallo">
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gallo)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=joao-gallo)](https://github.com/joao-gallo/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gallo&layout=compact&langs_count=7&theme=dracula" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-gallo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
