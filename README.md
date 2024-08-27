@@ -1,4 +1,4 @@
-# Olá, me chamo João! 
+# Opa! 
 # Bem vindo ao meu perfil GitHub 👋
 <p>Sou Desenvolvedor de software Full Stack em React, React Native, Node, TypeScript, Bancos Relacionais(MySQL) e Não Relacionais(MongoDB), Arquitetura MVC, Clean Code com DDD e principios SOLID, desenvolvo com Behavior Driven Development(testes voltados apenas para a aplicação, sem testar tecnologias externas), mas também tenho prática com TDD(Test Driven Development) usando Jest, React Test Library, Mocha, Chai e Sinon.</p>
 
